@@ -1,0 +1,286 @@
+#EXTINF:-1,TR: tvg-id="DeaTHLesS Paylaşım Telegram" tvg-logo="https://bit.ly/32SQd5e" group-title="",TR: DeaTHLesS Paylaşım Telegram
+https://bit.ly/DeaTHLesSJeneriK
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png"tvg-id="" group-title="",TRT 1 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal_d.png"tvg-id="" group-title="",KANAL D [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KANAL_D_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/atv.png"tvg-id="" group-title="",ATV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ATV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/showhd_logonew.png"tvg-id="" group-title="",SHOW TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$SHOW_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png"tvg-id="" group-title="",FOX TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$FOX_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/star_tv.png"tvg-id="" group-title="",STAR TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$STAR_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal7.png"tvg-id="" group-title="",KANAL 7 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KANAL_7_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv8hd_logonew.png"tvg-id="" group-title="",TV8 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV8_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png"tvg-id="" group-title="",360 TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$360_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/beyaz_tv.png"tvg-id="" group-title="",BEYAZ TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BEYAZ_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trthaberhd_logonew.png"tvg-id="" group-title="",TRT HABER [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ntv_hd.jpg"tvg-id="" group-title="",NTV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ahbr_hd.png"tvg-id="" group-title="",A HABER [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/24HD.png"tvg-id="" group-title="",24 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$24_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/cnnturk_hd_logo.jpg"tvg-id="" group-title="",CNN TÜRK [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CNN_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/haberturkHD.png"tvg-id="" group-title="",HABERTÜRK [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$HABERTURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/bloomberg_ht.png"tvg-id="" group-title="",BLOOMBERG HT [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BLOOMBERG_HT_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ulkehd_logonew.png"tvg-id="" group-title="",ÜLKE TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ULKE_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tvnet.png"tvg-id="" group-title="",TVNET [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TVNET_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kontv.png"tvg-id="" group-title="",KONTV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KON_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/apara_logo.png"tvg-id="" group-title="",A PARA [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A_PARA_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/akit_tv_1.png"tvg-id="" group-title="",AKİT TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKIT_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trtturk_logonew.png"tvg-id="" group-title="",TRT TÜRK [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_TURK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_avaz.png"tvg-id="" group-title="",TRT AVAZ [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_AVAZ_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_kurdi.png"tvg-id="" group-title="",TRT KURDİ [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_KURDI_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/diyanettv_logonew.png"tvg-id="" group-title="",TRT DİYANET [HD] 
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_DIYANET_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/haberglobal_logo.png"tvg-id="" group-title="",HABER GLOBAL [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$HABER_GLOBAL_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/benguturk_logo.png"tvg-id="" group-title="",BENGÜTÜRK TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BENGU_TURK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/semerkand_hd.png"tvg-id="" group-title="",SEMERKAND TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$SEMERKAND_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt2_logo.png"tvg-id="" group-title="",TRT 2 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/a2HD.png"tvg-id="" group-title="",A2 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/teve2.png"tvg-id="" group-title="",TEVE2 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/ucankus.png"tvg-id="" group-title="",UÇANKUŞ TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$UCANKUS_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tlc.png"tvg-id="" group-title="",TLC [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TLC_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/d_max_hd.png"tvg-id="" group-title="",DMAX [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_SPOR_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/bizimev_tv_hd.png"tvg-id="" group-title="",BİZİMEV TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BIZIMEV_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/aspor_hd.png"tvg-id="" group-title="",A SPOR [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A_SPOR_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_spor_hd.png"tvg-id="" group-title="",TRT SPOR [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_SPOR_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trtspor2_logo.png"tvg-id="" group-title="",TRT SPOR 2 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_SPOR_2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fb_tv.png"tvg-id="" group-title="",FB TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$FB_TV/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt3spor.png"tvg-id="" group-title="",TRT 3 SPOR [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_3_SPOR/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trtbelgeselhd_logonew.png"tvg-id="" group-title="",TRT BELGESEL [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_BELGESEL_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_cocuk.png"tvg-id="" group-title="",TRT ÇOCUK [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_COCUK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/minika_cocuk.png"tvg-id="" group-title="",MİNİKA ÇOCUK [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MINIKA_COCUK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/minikago.png"tvg-id="" group-title="",MİNİKA GO [HD]
+#EXTVLCOPT:http-user-agent=desk_win32 
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MINIKA_GO/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/boomerang_tv.png"tvg-id="" group-title="",BOOMERANG [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BOOMERANG_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/nick_toons.png"tvg-id="" group-title="",NICKTOONS [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NICKTOONS/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_muzik.png"tvg-id="" group-title="",TRT MÜZİK [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/nr1_turk.png"tvg-id="" group-title="",NUMBER1 TÜRK [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/nr1_hd.png"tvg-id="" group-title="",NUMBER1 [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/powertv_logo.png"tvg-id="" group-title="",POWER TV [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/powerturktv_logo.png"tvg-id="" group-title="",POWER TÜRK [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trtelarabia_logo.png"tvg-id="" group-title="",TRT ARABIA [HD]
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_EL_ARABIA/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_turkce-pop.png"tvg-id="" group-title="",TÜRKÇE POP
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_slow.png"tvg-id="" group-title="",TÜRKÇE SLOW
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_halk.png"tvg-id="" group-title="",TÜRK HALK MÜZİĞİ
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURK_HALK_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_turk_sanat_muzigi.png"tvg-id="" group-title="",TÜRK SANAT MÜZİĞİ
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURK_SANAT_MUZIGI/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tasplak.png"tvg-id="" group-title="",TAŞ PLAK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dini_musiki_logo.png"tvg-id="" group-title="",TASAVVUF
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TASAVVUF/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_arabesk.png"tvg-id="" group-title="",ARABESK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/yabanci_pop_dms.png"tvg-id="" group-title="",YABANCI POP
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dms_rock.png"tvg-id="" group-title="",YABANCI ROCK
+#EXTVLCOPT:http-user-agent=desk_win32
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$YABANCI_ROCK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:-1,TR | BEIN SPORTS 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56847
+#EXTINF:-1,TR | BEIN SPORTS 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56848
+#EXTINF:-1,TR | BEIN SPORTS 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56849
+#EXTINF:-1,TR | BEIN SPORTS 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56850
+#EXTINF:-1,TR | BEIN SPORTS MAX 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101687
+#EXTINF:-1,TR | BEIN SPORTS MAX 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101688
+#EXTINF:-1,TR | BEIN SPORTS HABER HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56857
+#EXTINF:-1,TR | SARAN SPORTS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101689
+#EXTINF:-1,TR | SPOR SMART HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56858
+#EXTINF:-1,TR | SPORTS TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56859
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56862
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56863
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56864
+#EXTINF:-1,TR | A SPOR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56867
+#EXTINF:-1,TR | TRT SPOR 2 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56868
+#EXTINF:-1,TR: BEINSPORT HD 1 (HQ-2)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/175
+#EXTINF:-1,TR: BEINSPORT HD 1 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/176
+#EXTINF:-1,TR: BEINSPORT HD 1 (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/177
+#EXTINF:-1,TR: BEINSPORT HD 2 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/178
+#EXTINF:-1,TR: BEINSPORT HD 2 (HQ2)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/179
+#EXTINF:-1,TR: BEINSPORT HD 2 (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/180
+#EXTINF:-1,TR: BEINSPORT HD 3 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/181
+#EXTINF:-1,TR: BEINSPORT HD 3 (HQ2)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/182
+#EXTINF:-1,TR: BEINSPORT HD 3 (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/183
+#EXTINF:-1,TR: BEINSPORT HD 4 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/184
+#EXTINF:-1,TR: BEINSPORT HD 4 (HQ2)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/185
+#EXTINF:-1,TR: BEINSPORT HD 4 (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/186
+#EXTINF:-1,TR:BeIN Sports MAXX 1 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/187
+#EXTINF:-1,TR:BeIN Sports MAXX 2 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/188
+#EXTINF:-1,TR: TIVIBU SPOR 1 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/189
+#EXTINF:-1,TR: TIVIBU SPOR 1 (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/190
+#EXTINF:-1,TR: TIVIBU SPOR 2 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/191
+#EXTINF:-1,TR: TIVIBU SPOR 2 (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/192
+#EXTINF:-1,TR: TIVIBU SPOR 3 (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/193
+#EXTINF:-1,TR: TIVIBU SPOR 3 (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/194
+#EXTINF:-1,TR: SMART SPOR HD (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/195
+#EXTINF:-1,TR: SMART SPOR HD (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/196
+#EXTINF:-1,TR: EUROSPORT 1 HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/197
+#EXTINF:-1,TR: EUROSPORT 2 HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/198
+#EXTINF:-1,TR: A SPOR HD (FHD)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/199
+#EXTINF:-1,TR: A SPOR HD (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/200
+#EXTINF:-1,TR: A SPOR HD (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/201
+#EXTINF:-1,TR: TRT SPOR HD (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/202
+#EXTINF:-1,TR: TRT SPOR HD (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/203
+#EXTINF:-1,TR: GS TV (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/204
+#EXTINF:-1,TR: GS TV (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/205
+#EXTINF:-1,TR: FB TV (HQ)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/206
+#EXTINF:-1,TR: FB TV (LOW)
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/207
+#EXTINF:-1,TR: FANATIK TV
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/208
